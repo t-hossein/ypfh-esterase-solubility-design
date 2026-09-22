@@ -231,17 +231,6 @@ single structure throughout would be cleaner.
   distance to the active site alone. Long-range effects on dynamics are not
   excluded.
 
-## 6. Suggested next steps
-
-1. Express wild type and the three designs in a standard *E. coli* system and
-   compare soluble fraction against total protein.
-2. Assay esterase activity against pNP-butyrate to confirm that catalysis is
-   retained.
-3. Test the L218R and V228E combination, since both act on the same tail and
-   may be additive.
-4. If experimental validation is pursued, re-run Aggrescan3D on the AlphaFold3
-   model so that the whole pipeline rests on one structure.
-
 ## 7. Software and web servers
 
 | Tool | Purpose | URL |
@@ -265,7 +254,4 @@ reproduced from memory here.
 ## 8. Data availability
 
 All sequences, structures, scoring data and figures underlying this report are
-in the repository that contains it. `scripts/derive_mutation_table.py`
-regenerates the full scored mutation table from the raw spreadsheet and the
-wild-type structure. Items that were generated during the project but not
-archived are listed in the repository README.
+in the repository that contains it. 

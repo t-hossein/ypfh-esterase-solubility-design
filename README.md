@@ -144,7 +144,4 @@ MolProbity · PyMOL · APBS · Clustal Omega · PSIPRED · NCBI BLASTp
 
 Department of Biotechnology, University of Tehran.
 
-- Reyhane Esmaili
-- Diba Hamzavi
-- Mohadese Rasouli
-- Hossein Teimouri
+- Hossein Teimouri, Mohadese Rasouli, Diba Hamzavi
