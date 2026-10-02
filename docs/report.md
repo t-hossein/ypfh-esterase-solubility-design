@@ -1,6 +1,6 @@
 # Improving solubility and reducing aggregation of YpfH esterase by rational protein design
 
-Hossein Teimouri, Mohadese Rasouli, Diba Hamzavi
+Hossein Teimouri, Mohadese Rasouli, Diba Hamzavi, Reyhaneh Esmaili
 
 Department of Biotechnology, University of Tehran
 
